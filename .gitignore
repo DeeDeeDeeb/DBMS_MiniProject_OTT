@@ -1,0 +1,19 @@
+# 🔒 Environment variables (database credentials etc.)
+.env
+
+# 🧠 Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🧱 Database dumps or temp files
+*.sql
+*.db
+
+# ⚙️ IDE/editor settings
+.vscode/
+.idea/
+
+# 💻 OS-generated junk
+.DS_Store
+Thumbs.db
