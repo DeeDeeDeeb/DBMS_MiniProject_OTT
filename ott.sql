@@ -1,5 +1,5 @@
-CREATE DATABASE ott3;
-USE ott3;
+CREATE DATABASE ott;
+USE ott;
 
 
 CREATE TABLE User (
